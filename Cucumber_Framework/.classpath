@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-reporting-3.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/selenium-java-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/git/Cucumber/Cucumber_Framework/src/main/resources/supportJars/testng-6.14.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
